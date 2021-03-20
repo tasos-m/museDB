@@ -32,7 +32,7 @@ Report of the assignement in Greek
 Presentation of our project at the end of the semester
 
 ## Group info
-Team 10, Databases, Dec 2020
+Team 10, Databases, December 2020
 
 Mastralexi Christina Maria 
 
