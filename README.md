@@ -31,12 +31,16 @@ Report of the assignement in Greek
 ## museDBpresentation.pdf
 Presentation of our project at the end of the semester
 
+## Application
+
+You can find [here](https://github.com/saouling/musedb) a web application where our database is used.
+
 ## Group info
 Team 10, Databases, December 2020
 
-Mastralexi Christina Maria 
+[Mastralexi Christina Maria](https://github.com/cmastral)
 
-Mouratidis Anastasios
+[Mouratidis Anastasios](https://github.com/tasos-m)
 
-Saoulidis Nikolaos
+[Saoulidis Nikolaos](https://github.com/saouling)
 
